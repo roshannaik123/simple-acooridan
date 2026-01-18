@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+
+  border: 2px solid;
+}
+.accordionContent {
+  visibility: hidden;
+}
+.accordionContent {
+  visibility: hidden;
+}
+
+.accordionContent.active {
+  display: block;
+}
